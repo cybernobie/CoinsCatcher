@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Coin Catcher</string>
+    <!-- Test Banner ID -->
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <!-- Test Interstitial ID -->
+    <string name="interstitial_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+</resources>
